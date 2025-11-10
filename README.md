@@ -3,8 +3,8 @@
 We set out to analyse the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following:: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
 ## Problem Statement
 ### Charts Requirement
-We would like to visualise various aspects of our pizza sales data to gain insights and undertsand key trends. We have identified the following requirements for creating charts:
-1. **Daily Trend for Total Orders:** Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluactuations in order volumes on a daily basis.
-2. **Monthly Trend for Total Orders:** Create a line chart that illustrate the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high hour activitiy.
-3. **Percentage of Sales by Pizza Category:** Create a pie chart that showa the distribution of sales across different pizaa categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales. 
- 
+We would like to visualise various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
+1. **Daily Trend for Total Orders:** Create a bar chart that displays the daily trend of total orders over a specific time period. This chart will help us identify any patterns or fluctuations in order volumes on a daily basis.
+2. **Monthly Trend for Total Orders:** Create a line chart that illustrate the hourly trend of total orders throughout the day. This chart will allow us to identify peak hours or periods of high hour activity.
+3. **Percentage of Sales by Pizza Category:** Create a pie chart that shows the distribution of sales across different pizza categories. This chart will provide insights into the popularity of various pizza categories and their contribution to overall sales. 
+
