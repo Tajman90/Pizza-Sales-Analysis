@@ -24,7 +24,7 @@ In the initial Data preparation phase, we performed the following task:
 1. Data loading and importation.
 2. Handling missing values.
 3. Data cleaning and formatting.
-### Explanatory Data Analysis 
+# Explanatory Data Analysis 
 EDA involves uncovering patterns in customer behavior, sales trends, and product performance to inform business decisions, such as:
 	Understand sales performance across time, categories, and locations
 	Identify top-selling pizzas and least popular items
