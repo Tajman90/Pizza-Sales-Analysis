@@ -19,6 +19,12 @@ Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" 
 - MS Office Pro Plus/Excel 2013 - Data Cleaning
 - SQL Server Management Studio 20 - Data Analysis 
 - Power BI (June 2025) - Creating Report
+## Data Cleaning/Preparation
+In the initial Data preparation phase, we performed the following task:
+1. Data loading and importation.
+2. Handling missing values.
+3. Data cleaning and formatting.
+
 
   
 
