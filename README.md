@@ -16,7 +16,7 @@ This chart will help us to identify underperforming of less popular pizza option
 ## Data Source
 Sales Data: The primary dataset used for this analysis is the "pizza_sales.csv" file, containing detailed information about pizza sales and pizza categories in the company.
 ## Tools/Software used
-- MS Office Pro Plus/Excel 2013 - Data Cleaning(attach of Excel files)
+- MS Office Pro Plus/Excel 2013 - Data Cleaning (attach of Excel files)
 - SQL Server Management Studio 20 - Data Analysis 
 - Power BI (June 2025) - Creating Report
 ## Data Cleaning/Preparation
