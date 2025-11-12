@@ -118,3 +118,10 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Orders DESC;
 ```
+**2. Bottom 5 Pizzas by Total Orders**
+```sql
+SELECT Top 5 pizza_name, COUNT(DISTINCT order_id) AS Total_Orders
+FROM pizza_sales
+GROUP BY pizza_name
+ORDER BY Total_Orders ASC;
+```
