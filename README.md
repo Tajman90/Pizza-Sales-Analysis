@@ -31,6 +31,7 @@ EDA involves uncovering patterns in customer behavior, sales trends, and product
 - Analyze customer ordering behavior (e.g., time of day, day of week)
 - Evaluate pricing and revenue trends
 - Spot seasonal or promotional impacts
+### Data Analysis
 
 
 
