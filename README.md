@@ -33,7 +33,7 @@ EDA involves uncovering patterns in customer behavior, sales trends, and product
 - Spot seasonal or promotional impacts
 ### Data Analysis
 Our analysis was executed using SQL server.
-# KPI's
+### KPI's
 **1. Total Revenue:**
 ```sql
 SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
@@ -57,7 +57,7 @@ CAST(COUNT(DISTINCT order_id) AS DECIMAL(10,2)) AS DECIMAL(10,2))
 AS Avg_Pizzas_per_order
 FROM pizza_sales;
 ```
-# Revenue Overview
+### Revenue Overview
 **1. % of Sales by Pizza Category:**
 ```sql
 SELECT pizza_category, CAST(SUM(total_price) AS DECIMAL(10,2)) as total_revenue,
@@ -95,7 +95,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Revenue ASC;
 ```
-# Top 5 by Sales Quantity/Bottom 5 by Sales Quantity
+### Top 5 by Sales Quantity/Bottom 5 by Sales Quantity
 **1. Top 5 Pizzas by Quantity**
 ```sql
 SELECT Top 5 pizza_name, SUM(quantity) AS Total_Pizza_Sold
@@ -110,7 +110,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold ASC;
 ```
-# Top 5 by Total Orders/Bottom 5 by Total Orders
+### Top 5 by Total Orders/Bottom 5 by Total Orders
 **1. Top 5 Pizzas by Total Orders**
 ```sql
 SELECT Top 5 pizza_name, COUNT(DISTINCT order_id) AS Total_Orders
@@ -125,7 +125,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Orders ASC;
 ```
-# Trends for Orders
+### Trends for Orders
 **1. Daily Trend for Total Orders**
 ```sql
 SELECT DATENAME(DW, order_date) AS order_day, COUNT(DISTINCT order_id) AS total_orders 
