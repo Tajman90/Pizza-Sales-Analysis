@@ -42,6 +42,10 @@ SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
 ```sql
 SELECT (SUM(total_price) / COUNT(DISTINCT order_id)) AS Avg_order_Value FROM pizza_sales;
 ```
+**3. Total Pizzas Sold:**
+```sql
+SELECT SUM(quantity) AS Total_pizza_sold FROM pizza_sales
+```
 
 
   
