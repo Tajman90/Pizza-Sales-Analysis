@@ -32,7 +32,11 @@ EDA involves uncovering patterns in customer behavior, sales trends, and product
 - Evaluate pricing and revenue trends
 - Spot seasonal or promotional impacts
 ### Data Analysis
-
+Our analysis was executed using SQL server.
+#KPI's
+```sql
+SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
+```
 
 
   
