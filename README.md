@@ -95,7 +95,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Revenue ASC;
 ```
-### Top 5 by Sales Quantity/Bottom 5 by Sales Quantity
+### Top 5/Bottom 5 by Sales Quantity
 **1. Top 5 Pizzas by Quantity**
 ```sql
 SELECT Top 5 pizza_name, SUM(quantity) AS Total_Pizza_Sold
@@ -110,7 +110,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Pizza_Sold ASC;
 ```
-### Top 5 by Total Orders/Bottom 5 by Total Orders
+### Top 5/Bottom 5 by Total Orders
 **1. Top 5 Pizzas by Total Orders**
 ```sql
 SELECT Top 5 pizza_name, COUNT(DISTINCT order_id) AS Total_Orders
