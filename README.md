@@ -146,3 +146,4 @@ The analysis results are summarised as follows:
 4. The Brie Carre Pizza contributes minimum Revenue.
 5. The Brie Carre Pizza also contributes to minimum Total Quantities.
 6. Finally, the Brie Carre Pizza contributes to minimum Total Orders.
+### Recommendations
