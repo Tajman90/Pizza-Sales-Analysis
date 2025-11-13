@@ -147,15 +147,19 @@ The analysis results are summarised as follows:
 5. The Brie Carre Pizza also contributes to minimum Total Quantities.
 6. Finally, the Brie Carre Pizza contributes to minimum Total Orders.
 ### Recommendations
-####1. Leverage High Performers
+#### 1. Leverage High Performers
 - Thai Chicken Pizza:
   - Increase visibility with premium placement on menus and promotions.
   - Consider upselling combos (e.g., Thai Chicken Pizza + drink/dessert) to maximize revenue further.
 - Classic Deluxe Pizza:
   - Since it drives volume and orders, use it as a “gateway” product.
   - Bundle with higher-margin items to lift overall profitability.
-####2. Address Low Performers
+#### 2. Address Low Performers
 - Brie Carre Pizza:
   - Re-evaluate recipe, pricing, and positioning. Is it too niche or expensive?
   - Test limited-time promotions or reposition it as a specialty item.
   - If repeated efforts fail, consider phasing it out to reduce menu clutter and focus on stronger sellers.
+#### 3. Marketing Strategy
+  - Promote Thai Chicken Pizza in premium campaigns (since it’s revenue-rich).
+  - Use Classic Deluxe Pizza in mass campaigns (since it’s popular and widely ordered).
+  - Experiment with Brie Carre Pizza in niche campaigns targeting adventurous eaters or cheese lovers.
