@@ -151,3 +151,11 @@ The analysis results are summarised as follows:
 - Thai Chicken Pizza:
   - Increase visibility with premium placement on menus and promotions.
   - Consider upselling combos (e.g., Thai Chicken Pizza + drink/dessert) to maximize revenue further.
+- Classic Deluxe Pizza:
+  - Since it drives volume and orders, use it as a “gateway” product.
+  - Bundle with higher-margin items to lift overall profitability.
+#### Address Low Performers
+- Brie Carre Pizza:
+  - Re-evaluate recipe, pricing, and positioning. Is it too niche or expensive?
+  - Test limited-time promotions or reposition it as a specialty item.
+  - If repeated efforts fail, consider phasing it out to reduce menu clutter and focus on stronger sellers.
