@@ -163,3 +163,6 @@ The analysis results are summarised as follows:
   - Promote Thai Chicken Pizza in premium campaigns (since it’s revenue-rich).
   - Use Classic Deluxe Pizza in mass campaigns (since it’s popular and widely ordered).
   - Experiment with Brie Carre Pizza in niche campaigns targeting adventurous eaters or cheese lovers.
+## References 
+1. Youtube Tutorial
+2. Google Search Engine to debug some code.
