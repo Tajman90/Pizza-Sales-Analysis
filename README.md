@@ -147,3 +147,7 @@ The analysis results are summarised as follows:
 5. The Brie Carre Pizza also contributes to minimum Total Quantities.
 6. Finally, the Brie Carre Pizza contributes to minimum Total Orders.
 ### Recommendations
+#### Leverage High Performers
+- Thai Chicken Pizza:
+  - Increase visibility with premium placement on menus and promotions.
+  - Consider upselling combos (e.g., Thai Chicken Pizza + drink/dessert) to maximize revenue further.
