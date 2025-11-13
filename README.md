@@ -140,3 +140,9 @@ GROUP BY DATENAME(MONTH, order_date)Output;
 ```
 ### Results/Findings
 The analysis results are summarised as follows:
+1. The pizza sales results indicate that Thai Chicken Pizza contribute to maximum Revenue.
+2. While the Classic Deluxe Pizza contributes to maximum Total Quantity.
+3. The Classic Deluxe Pizza also contributes to Maximum Total Orders.
+4. The Brie Carre Pizza contributes minimum Revenue.
+5. The Brie Carre Pizza also contributes to minimum Total Quantities.
+6. Finally, the Brie Carre Pizza contributes to minimum Total Orders.
