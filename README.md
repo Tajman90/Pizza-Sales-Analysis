@@ -1,3 +1,11 @@
+## 🛠️ Skills
+
+**Languages:** Python, SQL and DAX 
+**Data Analysis:** pandas, NumPy, Excel, Power Query  
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+**Databases:** SQL Server and MySQL
+**Tools:** Jupyter Notebook
+
 # Pizza-Sales-Analysis
 ## Table of Contents
 - [Project Overview](#project-overview)
