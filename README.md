@@ -1,3 +1,4 @@
+Hi, I'm Tajudeen — a Data Analyst who loves turning messy data into meaningful insights.  
 ## 🛠️ Skills
 
 **Languages:** Python, SQL. DAX  
