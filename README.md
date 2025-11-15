@@ -3,7 +3,7 @@
 **Languages:** Python, SQL. DAX  
 **Data Analysis:** pandas, NumPy, Excel, Power Query  
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Databases:** SQL Server and MySQL
+**Databases:** SQL Server, MySQL, Oracle    
 **Tools:** Jupyter Notebook
 
 # Pizza-Sales-Analysis
