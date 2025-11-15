@@ -1,6 +1,6 @@
 ## 🛠️ Skills
 
-**Languages:** Python, SQL, DAX 
+**Languages:** Python, SQL
 **Data Analysis:** pandas, NumPy, Excel, Power Query  
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 **Databases:** SQL Server and MySQL
