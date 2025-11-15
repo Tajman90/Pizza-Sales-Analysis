@@ -190,3 +190,13 @@ The analysis results are summarised as follows:
 1. Youtube Tutorial
 2. Google Search Engine to debug some code.
 3. Stack Overflow
+
+## Education  
+Ajayi Crowther University Oyo, Nigeria:
+Bachelor's degree, Business Administration,
+2019 - 2022
+
+Kaduna Polytechnic 
+Associate's degree, Business Administration and Mangement,
+1999 - 2005
+
