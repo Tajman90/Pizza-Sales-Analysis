@@ -3,7 +3,7 @@
 Hi, I'm **Tajudeen Omotosho**
 I am a data analyst specializing in transforming complex data into meaningful insights that support informed business decisions. With strong proficiency in SQL, Excel, and DAX, I focus on robust data preparation and analysis. I also develop clear, dynamic dashboards in Power BI and Tableau that communicate insights effectively to stakeholders. My work is driven by precision, clarity, and a commitment to delivering high-quality analytical solutions.   
   
-## 🛠️ Skills
+## Skills  
 
 **Languages:** Python, SQL. DAX  
 **Data Analysis:** pandas, NumPy, Excel, Power Query  
