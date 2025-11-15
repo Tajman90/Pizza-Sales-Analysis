@@ -5,7 +5,7 @@ Hi, I'm Tajudeen — a Data Analyst who loves turning messy data into meaningful
 **Data Analysis:** pandas, NumPy, Excel, Power Query  
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 **Databases:** SQL Server, MySQL, Oracle    
-**Tools:** Jupyter Notebook
+**Tools:** Jupyter Notebook, Mcrosoft SQL Server Manegement Studio 
 
 # Pizza-Sales-Analysis
 ## Table of Contents
