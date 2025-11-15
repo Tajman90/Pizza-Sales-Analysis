@@ -1,3 +1,6 @@
+# Tajudeen Omotosho - Data Analyst Portfolio  
+## About
+
 Hi, I'm Tajudeen — a Data Analyst who loves turning messy data into meaningful insights.  
 ## 🛠️ Skills
 
