@@ -5,7 +5,7 @@ I am a data analyst specializing in transforming complex data into meaningful in
   
 ## Skills  
 
-**Languages:** Python, SQL. DAX  
+**Languages:** Python, SQL, DAX  
 **Data Analysis:** pandas, NumPy, Excel, Power Query  
 **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 **Databases:** SQL Server, MySQL, Oracle    
