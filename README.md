@@ -194,9 +194,9 @@ The analysis results are summarised as follows:
 ## Education     
 Ajayi Crowther University Oyo, Nigeria:   
 Bachelor's degree, Business Administration    
-2019 - 2022  
+2023  
 
 Kaduna Polytechnic:   
 Associate's degree, Business Administration and Mangement  
-1999 - 2005   
+2005   
 
