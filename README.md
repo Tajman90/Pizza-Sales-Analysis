@@ -22,7 +22,7 @@ I am a data analyst that specialize in transforming complex data into meaningful
 We set out to analyse the key indicators for Pizza Sales data to gain insight into the business performance. We calculated the following:: Total Revenue, Average Order Value, Total Pizza Sold, Total Orders and Average Pizza Sold.
 
 <img width="968" height="516" alt="Pizza_Sales_screanshot" src="https://github.com/user-attachments/assets/d8d7ae24-26a4-47f4-8696-ddc8cce58ba4" />
-<img width="968" height="516" alt="	Pizza_home.PNG" src="https://github.com/user-attachments/assets/d8d7ae24-26a4-47f4-8696-ddc8cce58ba4" />
+<img width="968" height="516" alt="Pizza_home" src="https://github.com/user-attachments/assets/d8d7ae24-26a4-47f4-8696-ddc8cce58ba4" />
 
 
 ## Problem Statement
